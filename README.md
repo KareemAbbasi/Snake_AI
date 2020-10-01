@@ -21,3 +21,9 @@ The code can be found in the ```Snake_AI_code``` directory.
 2. Run ```python3 game.py``` to start the game.
 
 You can use ```python3 game.py``` to show all options.
+
+## Authors
+- Kareem Abbasi - Kareem.Abbasi@mail.huji.ac.il
+- Abdalrhm Kharubi - Abdalrhm.Kharubi@mail.huji.ac.il
+- Ahmad Okosh - Ahmad.Okosh@mail.huji.ac.il
+- Waseem Abu Leil - Waseem.AbuLeil@mail.huji.ac.il
